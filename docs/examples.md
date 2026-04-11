@@ -62,3 +62,7 @@ Example Projects that you can try on shrike check them out [here](https://github
 
     WS2812 Led controller in FPGA.
 
+##### 20. [ina226_print_values](https://github.com/vicharak-in/shrike/tree/main/examples/ina226_print_values)
+
+    INA226 current / voltage / power monitor – read and print live measurements over I2C.
+
